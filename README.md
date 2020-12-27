@@ -1,4 +1,3 @@
-Nishkarsh001.Image-Classifier
 # Image-Classifier
 
 # Humpback Whale Identification
